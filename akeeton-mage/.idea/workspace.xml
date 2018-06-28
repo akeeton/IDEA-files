@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9cad35c9-b6e9-454c-8435-579db5487e39" name="Default Changelist" comment="" />
+    <list default="true" id="9cad35c9-b6e9-454c-8435-579db5487e39" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/../../akeeton-mage/Mage.Server.Plugins/Mage.Game.TwoPlayerDuel/target/" />
     <ignored path="$PROJECT_DIR$/../../akeeton-mage/Mage.Server.Plugins/Mage.Player.AIMCTS/target/" />
     <ignored path="$PROJECT_DIR$/../../akeeton-mage/Mage.Server.Plugins/Mage.Game.PennyDreadfulCommanderFreeForAll/target/" />
@@ -51,14 +53,50 @@
         <counts>
           <entry key="project.closed" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="20" />
+          <entry key="txt" value="117" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="20" />
+          <entry key="PLAIN_TEXT" value="117" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../akeeton-mage/Mage/src/main/java/mage/game/match/Match.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
-    <option name="ROOT_SYNC" value="SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../akeeton-mage" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -83,11 +121,294 @@
     <option name="height" value="1096" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectUserFactors">
+    <factor id="binaryFeature:liftShorter">
+      <dailyData date="28-6-2018">
+        <observation name="false" value="17.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:liftShorterClasses">
+      <dailyData date="28-6-2018">
+        <observation name="UNDEFINED" value="15.0" />
+        <observation name="false" value="2.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:middleMatching">
+      <dailyData date="28-6-2018">
+        <observation name="false" value="17.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:nonGeneric">
+      <dailyData date="28-6-2018">
+        <observation name="UNDEFINED" value="17.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_inResolveScope">
+      <dailyData date="28-6-2018">
+        <observation name="UNDEFINED" value="17.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_openedInEditor">
+      <dailyData date="28-6-2018">
+        <observation name="UNDEFINED" value="17.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_sameDirectory">
+      <dailyData date="28-6-2018">
+        <observation name="UNDEFINED" value="17.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_sameLogicalRoot">
+      <dailyData date="28-6-2018">
+        <observation name="UNDEFINED" value="17.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_sdkOrLibrary">
+      <dailyData date="28-6-2018">
+        <observation name="UNDEFINED" value="17.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:templates">
+      <dailyData date="28-6-2018">
+        <observation name="false" value="17.0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:accessible">
+      <dailyData date="28-6-2018">
+        <observation name="NORMAL" value="2.0" />
+        <observation name="UNDEFINED" value="15.0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:expectedType">
+      <dailyData date="28-6-2018">
+        <observation name="UNDEFINED" value="15.0" />
+        <observation name="normal" value="2.0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:kind">
+      <dailyData date="28-6-2018">
+        <observation name="UNDEFINED" value="15.0" />
+        <observation name="classNameOrGlobalStatic" value="1.0" />
+        <observation name="normal" value="1.0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:prox_groovyReferenceListWeigher">
+      <dailyData date="28-6-2018">
+        <observation name="UNDEFINED" value="17.0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:prox_javaInheritance">
+      <dailyData date="28-6-2018">
+        <observation name="UNDEFINED" value="17.0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:prox_referenceList">
+      <dailyData date="28-6-2018">
+        <observation name="UNDEFINED" value="17.0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:recursion">
+      <dailyData date="28-6-2018">
+        <observation name="UNDEFINED" value="17.0" />
+      </dailyData>
+    </factor>
+    <factor id="completionFinishedType">
+      <dailyData date="28-6-2018">
+        <observation name="cancelled" value="41.0" />
+        <observation name="explicitSelect" value="1.0" />
+        <observation name="typedSelect" value="16.0" />
+      </dailyData>
+    </factor>
+    <factor id="completionType">
+      <dailyData date="28-6-2018">
+        <observation name="BASIC" value="22.0" />
+      </dailyData>
+    </factor>
+    <factor id="completionUsage">
+      <dailyData date="28-6-2018">
+        <observation name="count" value="58.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:explicitProximity">
+      <dailyData date="28-6-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="33.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:grouping">
+      <dailyData date="28-6-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="33.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:mostUsed">
+      <dailyData date="28-6-2018">
+        <observation name="UNDEFINED" value="17.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:nameEnd">
+      <dailyData date="28-6-2018">
+        <observation name="UNDEFINED" value="15.0" />
+        <observation name="average" value="0.0" />
+        <observation name="count" value="3.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:position">
+      <dailyData date="28-6-2018">
+        <observation name="average" value="4.121212" />
+        <observation name="count" value="33.0" />
+        <observation name="max" value="68.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="156.812062" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prefix">
+      <dailyData date="28-6-2018">
+        <observation name="average" value="-1092.212121" />
+        <observation name="count" value="33.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-1203.0" />
+        <observation name="variance" value="46232.027904" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:priority">
+      <dailyData date="28-6-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="33.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_explicitlyImported">
+      <dailyData date="28-6-2018">
+        <observation name="UNDEFINED" value="17.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_knownElement">
+      <dailyData date="28-6-2018">
+        <observation name="UNDEFINED" value="17.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_sameModule">
+      <dailyData date="28-6-2018">
+        <observation name="UNDEFINED" value="17.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_samePsiMember">
+      <dailyData date="28-6-2018">
+        <observation name="UNDEFINED" value="17.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:query_length">
+      <dailyData date="28-6-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="33.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:result_length">
+      <dailyData date="28-6-2018">
+        <observation name="average" value="5.545455" />
+        <observation name="count" value="33.0" />
+        <observation name="max" value="9.0" />
+        <observation name="min" value="2.0" />
+        <observation name="variance" value="3.144006" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:sameWords">
+      <dailyData date="28-6-2018">
+        <observation name="UNDEFINED" value="15.0" />
+        <observation name="average" value="0.0" />
+        <observation name="count" value="3.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:shorter">
+      <dailyData date="28-6-2018">
+        <observation name="UNDEFINED" value="15.0" />
+        <observation name="average" value="0.0" />
+        <observation name="count" value="3.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:simple">
+      <dailyData date="28-6-2018">
+        <observation name="UNDEFINED" value="15.0" />
+        <observation name="average" value="0.0" />
+        <observation name="count" value="3.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:sorter">
+      <dailyData date="28-6-2018">
+        <observation name="average" value="1.0" />
+        <observation name="count" value="33.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:statics">
+      <dailyData date="28-6-2018">
+        <observation name="UNDEFINED" value="15.0" />
+        <observation name="average" value="-2.0" />
+        <observation name="count" value="3.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-3.0" />
+        <observation name="variance" value="0.5" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:stats">
+      <dailyData date="28-6-2018">
+        <observation name="average" value="1212.121212" />
+        <observation name="count" value="33.0" />
+        <observation name="max" value="10000.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="5501530.239448" />
+      </dailyData>
+    </factor>
+    <factor id="itemPosition">
+      <dailyData date="28-6-2018">
+        <observation name="68" value="1.0" />
+      </dailyData>
+    </factor>
+    <factor id="mnemonicsUsage" />
+    <factor id="prefixLength">
+      <dailyData date="28-6-2018">
+        <observation name="0" value="1.0" />
+      </dailyData>
+    </factor>
+    <factor id="timeBetweenTyping">
+      <dailyData date="28-6-2018">
+        <observation name="average" value="94.755102" />
+        <observation name="count" value="49.0" />
+      </dailyData>
+    </factor>
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -100,11 +421,10 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -117,6 +437,217 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager" selected="Application.Client: Install and Run">
+    <configuration name="Client: Install and Run" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="mage.client.MageFrame" />
+      <module name="mage-client" />
+      <option name="VM_PARAMETERS" value="-Xverify:none -client -Xss2m -Xms512m -Xmx512m -XX:+PerfBypassFileSystemCheck" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../akeeton-mage/Mage.Client" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/../../akeeton-mage/Mage.Client/pom.xml" goal="install -DskipTests" />
+      </method>
+    </configuration>
+    <configuration name="Client: Run" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="mage.client.MageFrame" />
+      <module name="mage-client" />
+      <option name="VM_PARAMETERS" value="-Xverify:none -client -Xss2m -Xms512m -Xmx512m -XX:+PerfBypassFileSystemCheck" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../akeeton-mage/Mage.Client" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server: Install and Run" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="mage.server.Main" />
+      <module name="mage-server" />
+      <option name="VM_PARAMETERS" value="-Xss16m -Xms512m -Xmx512m -XX:PermSize=64m -XX:MaxPermSize=256m -Xverify:none" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../akeeton-mage/Mage.Server" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/../../akeeton-mage/Mage.Server/pom.xml" goal="install -DskipTests" />
+      </method>
+    </configuration>
+    <configuration name="Server: Run" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="mage.server.Main" />
+      <module name="mage-server" />
+      <option name="VM_PARAMETERS" value="-Xss16m -Xms512m -Xmx512m -XX:PermSize=64m -XX:MaxPermSize=256m -Xverify:none" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../akeeton-mage/Mage.Server" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Clean Install with Tests" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/../../akeeton-mage" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Clean Install" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="install" />
+                <option value="-DskipTests" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/../../akeeton-mage" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Client: Clean Install with Tests" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/../../akeeton-mage/Mage.Client" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Client: Clean Install" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="install" />
+                <option value="-DskipTests" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/../../akeeton-mage/Mage.Client" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Server: Clean Install with Tests" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/../../akeeton-mage/Mage.Server" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Server: Clean Install" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="install" />
+                <option value="-DskipTests" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/../../akeeton-mage/Mage.Server" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Server: Run" />
+      <item itemvalue="Application.Server: Install and Run" />
+      <item itemvalue="Application.Client: Run" />
+      <item itemvalue="Application.Client: Install and Run" />
+      <item itemvalue="Maven.Clean Install" />
+      <item itemvalue="Maven.Clean Install with Tests" />
+      <item itemvalue="Maven.Client: Clean Install" />
+      <item itemvalue="Maven.Server: Clean Install" />
+      <item itemvalue="Maven.Client: Clean Install with Tests" />
+      <item itemvalue="Maven.Server: Clean Install with Tests" />
+    </list>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -135,12 +666,13 @@
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Learn" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" weight="0.32952183" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
-      <window_info anchor="bottom" id="Run" order="5" />
+      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.32952183" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
@@ -151,7 +683,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
-      <window_info active="true" anchor="right" content_ui="combo" id="Project" order="6" visible="true" weight="0.24973656" />
+      <window_info anchor="right" content_ui="combo" id="Project" order="6" visible="true" weight="0.24973656" />
       <window_info anchor="right" id="Structure" order="7" side_tool="true" weight="0.24973656" />
     </layout>
   </component>
@@ -182,6 +714,15 @@
   <component name="designer2.settings">
     <option name="autodetectServerAddress" value="true" />
     <option name="serverIp" value="localhost" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../akeeton-mage/Mage/src/main/java/mage/game/match/Match.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
