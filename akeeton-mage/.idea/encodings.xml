@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../../akeeton-mage" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../akeeton-mage/Mage" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../akeeton-mage/Mage.Client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../akeeton-mage/Mage.Common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../akeeton-mage/Mage.Plugins" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../akeeton-mage/Mage.Plugins/Mage.Counter.Plugin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../akeeton-mage/Mage.Server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../akeeton-mage/Mage.Server.Console" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../akeeton-mage/Mage.Server.Plugins" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../akeeton-mage/Mage.Server.Plugins/Mage.Deck.Constructed" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../akeeton-mage/Mage.Server.Plugins/Mage.Deck.Limited" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../akeeton-mage/Mage.Server.Plugins/Mage.Game.BrawlDuel" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../akeeton-mage/Mage.Server.Plugins/Mage.Game.BrawlFreeForAll" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../akeeton-mage/Mage.Server.Plugins/Mage.Game.CanadianHighlanderDuel" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../akeeton-mage/Mage.Server.Plugins/Mage.Game.CommanderDuel" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../akeeton-mage/Mage.Server.Plugins/Mage.Game.CommanderFreeForAll" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../akeeton-mage/Mage.Server.Plugins/Mage.Game.FreeForAll" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../akeeton-mage/Mage.Server.Plugins/Mage.Game.FreeformCommanderFreeForAll" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../akeeton-mage/Mage.Server.Plugins/Mage.Game.MomirDuel" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../akeeton-mage/Mage.Server.Plugins/Mage.Game.MomirGame" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../akeeton-mage/Mage.Server.Plugins/Mage.Game.PennyDreadfulCommanderFreeForAll" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../akeeton-mage/Mage.Server.Plugins/Mage.Game.TinyLeadersDuel" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../akeeton-mage/Mage.Server.Plugins/Mage.Game.TwoPlayerDuel" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../akeeton-mage/Mage.Server.Plugins/Mage.Player.AI" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../akeeton-mage/Mage.Server.Plugins/Mage.Player.AI.DraftBot" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../akeeton-mage/Mage.Server.Plugins/Mage.Player.AI.MA" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../akeeton-mage/Mage.Server.Plugins/Mage.Player.AIMCTS" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../akeeton-mage/Mage.Server.Plugins/Mage.Player.AIMinimax" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../akeeton-mage/Mage.Server.Plugins/Mage.Player.Human" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../akeeton-mage/Mage.Server.Plugins/Mage.Tournament.BoosterDraft" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../akeeton-mage/Mage.Server.Plugins/Mage.Tournament.Constructed" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../akeeton-mage/Mage.Server.Plugins/Mage.Tournament.Sealed" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../akeeton-mage/Mage.Sets" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../akeeton-mage/Mage.Stats" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../akeeton-mage/Mage.Tests" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../akeeton-mage/Mage.Updater" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../akeeton-mage/Mage.Verify" charset="UTF-8" />
+  </component>
+</project>
