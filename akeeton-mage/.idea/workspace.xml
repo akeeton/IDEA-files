@@ -1,16 +1,183 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9cad35c9-b6e9-454c-8435-579db5487e39" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/../../akeeton-mage/Mage.Server.Plugins/Mage.Game.TwoPlayerDuel/target/" />
+    <ignored path="$PROJECT_DIR$/../../akeeton-mage/Mage.Server.Plugins/Mage.Player.AIMCTS/target/" />
+    <ignored path="$PROJECT_DIR$/../../akeeton-mage/Mage.Server.Plugins/Mage.Game.PennyDreadfulCommanderFreeForAll/target/" />
+    <ignored path="$PROJECT_DIR$/../../akeeton-mage/Mage.Sets/target/" />
+    <ignored path="$PROJECT_DIR$/../../akeeton-mage/Mage.Server.Plugins/Mage.Game.TinyLeadersDuel/target/" />
+    <ignored path="$PROJECT_DIR$/../../akeeton-mage/Mage.Server.Plugins/Mage.Game.CommanderDuel/target/" />
+    <ignored path="$PROJECT_DIR$/../../akeeton-mage/Mage.Server.Plugins/target/" />
+    <ignored path="$PROJECT_DIR$/../../akeeton-mage/Mage.Server.Plugins/Mage.Game.FreeformCommanderFreeForAll/target/" />
+    <ignored path="$PROJECT_DIR$/../../akeeton-mage/Mage.Updater/target/" />
+    <ignored path="$PROJECT_DIR$/../../akeeton-mage/Mage.Client/target/" />
+    <ignored path="$PROJECT_DIR$/../../akeeton-mage/Mage.Server.Plugins/Mage.Game.CommanderFreeForAll/target/" />
+    <ignored path="$PROJECT_DIR$/../../akeeton-mage/Mage.Server.Plugins/Mage.Game.BrawlFreeForAll/target/" />
+    <ignored path="$PROJECT_DIR$/../../akeeton-mage/Mage.Server.Plugins/Mage.Game.MomirGame/target/" />
+    <ignored path="$PROJECT_DIR$/../../akeeton-mage/Mage.Server.Plugins/Mage.Player.AI.MA/target/" />
+    <ignored path="$PROJECT_DIR$/../../akeeton-mage/Mage.Server/target/" />
+    <ignored path="$PROJECT_DIR$/../../akeeton-mage/Mage.Plugins/target/" />
+    <ignored path="$PROJECT_DIR$/../../akeeton-mage/target/" />
+    <ignored path="$PROJECT_DIR$/../../akeeton-mage/Mage.Server.Console/target/" />
+    <ignored path="$PROJECT_DIR$/../../akeeton-mage/Mage.Server.Plugins/Mage.Deck.Constructed/target/" />
+    <ignored path="$PROJECT_DIR$/../../akeeton-mage/Mage.Server.Plugins/Mage.Player.AI/target/" />
+    <ignored path="$PROJECT_DIR$/../../akeeton-mage/Mage/target/" />
+    <ignored path="$PROJECT_DIR$/../../akeeton-mage/Mage.Server.Plugins/Mage.Player.Human/target/" />
+    <ignored path="$PROJECT_DIR$/../../akeeton-mage/Mage.Server.Plugins/Mage.Player.AIMinimax/target/" />
+    <ignored path="$PROJECT_DIR$/../../akeeton-mage/Mage.Server.Plugins/Mage.Game.FreeForAll/target/" />
+    <ignored path="$PROJECT_DIR$/../../akeeton-mage/Mage.Server.Plugins/Mage.Deck.Limited/target/" />
+    <ignored path="$PROJECT_DIR$/../../akeeton-mage/Mage.Server.Plugins/Mage.Game.MomirDuel/target/" />
+    <ignored path="$PROJECT_DIR$/../../akeeton-mage/Mage.Tests/target/" />
+    <ignored path="$PROJECT_DIR$/../../akeeton-mage/Mage.Server.Plugins/Mage.Tournament.Sealed/target/" />
+    <ignored path="$PROJECT_DIR$/../../akeeton-mage/Mage.Common/target/" />
+    <ignored path="$PROJECT_DIR$/../../akeeton-mage/Mage.Server.Plugins/Mage.Game.CanadianHighlanderDuel/target/" />
+    <ignored path="$PROJECT_DIR$/../../akeeton-mage/Mage.Stats/target/" />
+    <ignored path="$PROJECT_DIR$/../../akeeton-mage/Mage.Server.Plugins/Mage.Tournament.Constructed/target/" />
+    <ignored path="$PROJECT_DIR$/../../akeeton-mage/Mage.Server.Plugins/Mage.Game.BrawlDuel/target/" />
+    <ignored path="$PROJECT_DIR$/../../akeeton-mage/Mage.Server.Plugins/Mage.Player.AI.DraftBot/target/" />
+    <ignored path="$PROJECT_DIR$/../../akeeton-mage/Mage.Plugins/Mage.Counter.Plugin/target/" />
+    <ignored path="$PROJECT_DIR$/../../akeeton-mage/Mage.Verify/target/" />
+    <ignored path="$PROJECT_DIR$/../../akeeton-mage/Mage.Server.Plugins/Mage.Tournament.BoosterDraft/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-496518915">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="dedicatedModuleDir" value="C:\Users\andre\Documents\GitHub\IDEA-files\akeeton-mage" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1096" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mage-root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="akeeton-mage" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9cad35c9-b6e9-454c-8435-579db5487e39" name="Default Changelist" comment="" />
+      <created>1530204322315</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530204322315</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" order="0" show_stripe_button="false" side_tool="true" weight="0.32995737" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Learn" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Palette&#9;" order="1" />
+      <window_info anchor="right" id="Maven Projects" order="2" weight="0.21654373" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+      <window_info active="true" anchor="right" content_ui="combo" id="Project" order="6" visible="true" weight="0.24973656" />
+      <window_info anchor="right" id="Structure" order="7" side_tool="true" weight="0.24973656" />
+    </layout>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="com.vaadin.designer2.intellij.settings.SizePresetsSettingsComponent">
+    <option name="sizePresets">
+      <list>
+        <SizePreset>
+          <option name="caption" value="Phone" />
+          <option name="height" value="568" />
+          <option name="width" value="320" />
+        </SizePreset>
+        <SizePreset>
+          <option name="caption" value="Tablet" />
+          <option name="height" value="1024" />
+          <option name="width" value="768" />
+        </SizePreset>
+        <SizePreset>
+          <option name="caption" value="Desktop" />
+          <option name="height" value="900" />
+          <option name="width" value="1440" />
+        </SizePreset>
+      </list>
+    </option>
   </component>
   <component name="designer2.settings">
     <option name="autodetectServerAddress" value="true" />
