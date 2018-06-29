@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9cad35c9-b6e9-454c-8435-579db5487e39" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/../../akeeton-mage/Mage.Server.Plugins/Mage.Game.TwoPlayerDuel/target/" />
@@ -51,25 +52,27 @@
     <session id="-496518915">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
-          <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.14" value="1" />
+          <entry key="project.closed" value="11" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.14" value="3" />
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="20" />
-          <entry key="txt" value="117" />
+          <entry key="txt" value="119" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="20" />
-          <entry key="PLAIN_TEXT" value="117" />
+          <entry key="PLAIN_TEXT" value="119" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -90,7 +93,7 @@
         <entry file="file://$PROJECT_DIR$/../../akeeton-mage/Mage.Sets/src/mage/cards/r/RosheenMeanderer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
-              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+              <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -99,7 +102,7 @@
         <entry file="file://$PROJECT_DIR$/../../akeeton-mage/Mage.Sets/src/mage/cards/a/AAT1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="30" column="86" selection-start-line="30" selection-start-column="86" selection-end-line="30" selection-end-column="86" />
+              <caret line="56" column="86" selection-start-line="56" selection-start-column="86" selection-end-line="56" selection-end-column="86" />
             </state>
           </provider>
         </entry>
@@ -108,7 +111,7 @@
         <entry file="file://$PROJECT_DIR$/../../akeeton-mage/Mage.Sets/src/mage/cards/a/AbandonedOutpost.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="408">
-              <caret line="32" column="38" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
+              <caret line="58" column="38" selection-start-line="58" selection-start-column="38" selection-end-line="58" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -117,7 +120,7 @@
         <entry file="file://$PROJECT_DIR$/../../akeeton-mage/Mage.Sets/src/mage/cards/a/Abrade.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+              <caret line="50" column="42" selection-start-line="50" selection-start-column="42" selection-end-line="50" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -126,7 +129,7 @@
         <entry file="file://$PROJECT_DIR$/../../akeeton-mage/Mage.Sets/src/mage/cards/a/AbuJafar.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
-              <caret line="28" column="53" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="53" />
+              <caret line="54" column="53" selection-start-line="54" selection-start-column="53" selection-end-line="54" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -135,13 +138,7 @@
         <entry file="file://$PROJECT_DIR$/../../akeeton-mage/Mage/src/main/java/mage/filter/common/FilterCreaturePermanent.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="476">
-              <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
-              <folding>
-                <element signature="e#401#402#0" expanded="true" />
-                <element signature="e#433#434#0" expanded="true" />
-                <element signature="e#947#948#0" expanded="true" />
-                <element signature="e#1003#1004#0" expanded="true" />
-              </folding>
+              <caret line="62" column="21" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -149,14 +146,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../../akeeton-mage/Mage/src/main/java/mage/filter/FilterImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="51" column="12" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="12" />
-              <folding>
-                <element signature="e#1434#1435#0" expanded="true" />
-                <element signature="e#1464#1465#0" expanded="true" />
-                <element signature="e#1816#1817#0" expanded="true" />
-                <element signature="e#1851#1852#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="513">
+              <caret line="103" selection-start-line="103" selection-end-line="103" />
             </state>
           </provider>
         </entry>
@@ -177,12 +168,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../akeeton-mage/Mage/src/main/java/mage/filter/FilterPermanent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="55" column="19" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
-              <folding>
-                <element signature="e#1392#1393#0" expanded="true" />
-                <element signature="e#1442#1443#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="646">
+              <caret line="82" column="19" selection-start-line="82" selection-start-column="19" selection-end-line="82" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -191,7 +178,7 @@
         <entry file="file://$PROJECT_DIR$/../../akeeton-mage/Mage/src/main/java/mage/filter/Filter.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+              <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -318,19 +305,19 @@
     </factor>
     <factor id="completionFinishedType">
       <dailyData date="28-6-2018">
-        <observation name="cancelled" value="41.0" />
+        <observation name="cancelled" value="42.0" />
         <observation name="explicitSelect" value="1.0" />
         <observation name="typedSelect" value="16.0" />
       </dailyData>
     </factor>
     <factor id="completionType">
       <dailyData date="28-6-2018">
-        <observation name="BASIC" value="22.0" />
+        <observation name="BASIC" value="23.0" />
       </dailyData>
     </factor>
     <factor id="completionUsage">
       <dailyData date="28-6-2018">
-        <observation name="count" value="58.0" />
+        <observation name="count" value="59.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:explicitProximity">
@@ -510,13 +497,38 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mage-root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="akeeton-mage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mage-root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="akeeton-mage" type="462c0819:PsiDirectoryNode" />
+              <item name="Mage.Sets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mage-root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="akeeton-mage" type="462c0819:PsiDirectoryNode" />
+              <item name="Mage.Sets" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -530,14 +542,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Server: Run">
+  <component name="RunManager" selected="Application.Client: Install and Run">
     <configuration name="Client: Install and Run" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="mage.client.MageFrame" />
       <module name="mage-client" />
       <option name="VM_PARAMETERS" value="-Xverify:none -client -Xss2m -Xms512m -Xmx2048m -XX:+PerfBypassFileSystemCheck" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../akeeton-mage/Mage.Client" />
       <method v="2">
-        <option name="Make" enabled="true" />
         <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/../../akeeton-mage/Mage.Client/pom.xml" goal="install -DskipTests" />
       </method>
     </configuration>
@@ -546,9 +557,7 @@
       <module name="mage-client" />
       <option name="VM_PARAMETERS" value="-Xverify:none -client -Xss2m -Xms512m -Xmx2048m -XX:+PerfBypassFileSystemCheck" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../akeeton-mage/Mage.Client" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+      <method v="2" />
     </configuration>
     <configuration name="Server: Install and Run" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="mage.server.Main" />
@@ -556,7 +565,6 @@
       <option name="VM_PARAMETERS" value="-Xss16m -Xms512m -Xmx2048m -XX:PermSize=64m -XX:MaxPermSize=256m -Xverify:none" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../akeeton-mage/Mage.Server" />
       <method v="2">
-        <option name="Make" enabled="true" />
         <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/../../akeeton-mage/Mage.Server/pom.xml" goal="install -DskipTests" />
       </method>
     </configuration>
@@ -565,11 +573,9 @@
       <module name="mage-server" />
       <option name="VM_PARAMETERS" value="-Xss16m -Xms512m -Xmx2048m -XX:PermSize=64m -XX:MaxPermSize=256m -Xverify:none" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../akeeton-mage/Mage.Server" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+      <method v="2" />
     </configuration>
-    <configuration name="Clean Install with Tests" type="MavenRunConfiguration" factoryName="Maven">
+    <configuration name="Client and Server: Clean Install with Tests" type="MavenRunConfiguration" factoryName="Maven">
       <MavenSettings>
         <option name="myGeneralSettings" />
         <option name="myRunnerSettings" />
@@ -595,7 +601,7 @@
       </MavenSettings>
       <method v="2" />
     </configuration>
-    <configuration name="Clean Install" type="MavenRunConfiguration" factoryName="Maven">
+    <configuration name="Client and Server: Clean Install" type="MavenRunConfiguration" factoryName="Maven">
       <MavenSettings>
         <option name="myGeneralSettings" />
         <option name="myRunnerSettings" />
@@ -728,15 +734,42 @@
       </MavenSettings>
       <method v="2" />
     </configuration>
+    <configuration name="Server: Install" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="install" />
+                <option value="-DskipTests" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/../../akeeton-mage/Mage.Server" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Application.Server: Run" />
       <item itemvalue="Application.Server: Install and Run" />
       <item itemvalue="Application.Client: Run" />
       <item itemvalue="Application.Client: Install and Run" />
-      <item itemvalue="Maven.Clean Install" />
-      <item itemvalue="Maven.Clean Install with Tests" />
+      <item itemvalue="Maven.Client and Server: Clean Install" />
+      <item itemvalue="Maven.Client and Server: Clean Install with Tests" />
       <item itemvalue="Maven.Client: Clean Install" />
       <item itemvalue="Maven.Server: Clean Install" />
+      <item itemvalue="Maven.Server: Install" />
       <item itemvalue="Maven.Client: Clean Install with Tests" />
       <item itemvalue="Maven.Server: Clean Install with Tests" />
     </list>
@@ -773,10 +806,10 @@
       <window_info id="Learn" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="0" sideWeight="0.49947312" weight="0.32952183" />
       <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.49841937" weight="0.32952183" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="2" sideWeight="0.50105375" side_tool="true" visible="true" weight="0.32952183" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5021075" side_tool="true" weight="0.32952183" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
-      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.49894625" weight="0.32952183" />
+      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.49789253" weight="0.32952183" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
@@ -784,12 +817,12 @@
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32952183" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
-      <window_info anchor="right" content_ui="combo" id="Project" order="2" sideWeight="0.4992248" weight="0.24973656" />
+      <window_info anchor="right" content_ui="combo" id="Project" order="2" sideWeight="0.4992248" visible="true" weight="0.24973656" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.21654373" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="4" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="5" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
-      <window_info anchor="right" id="Structure" order="7" sideWeight="0.5007752" visible="true" weight="0.22760801" />
+      <window_info anchor="right" id="Structure" order="7" sideWeight="0.5007752" weight="0.22760801" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -887,48 +920,42 @@
     <entry file="file://$PROJECT_DIR$/../../akeeton-mage/Mage.Sets/src/mage/cards/r/RosheenMeanderer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../akeeton-mage/Mage.Sets/src/mage/cards/a/AAT1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="30" column="86" selection-start-line="30" selection-start-column="86" selection-end-line="30" selection-end-column="86" />
+          <caret line="56" column="86" selection-start-line="56" selection-start-column="86" selection-end-line="56" selection-end-column="86" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../akeeton-mage/Mage.Sets/src/mage/cards/a/AbandonedOutpost.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
-          <caret line="32" column="38" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
+          <caret line="58" column="38" selection-start-line="58" selection-start-column="38" selection-end-line="58" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../akeeton-mage/Mage.Sets/src/mage/cards/a/Abrade.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+          <caret line="50" column="42" selection-start-line="50" selection-start-column="42" selection-end-line="50" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../akeeton-mage/Mage.Sets/src/mage/cards/a/AbuJafar.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="28" column="53" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="53" />
+          <caret line="54" column="53" selection-start-line="54" selection-start-column="53" selection-end-line="54" selection-end-column="53" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../akeeton-mage/Mage/src/main/java/mage/filter/common/FilterCreaturePermanent.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
-          <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
-          <folding>
-            <element signature="e#401#402#0" expanded="true" />
-            <element signature="e#433#434#0" expanded="true" />
-            <element signature="e#947#948#0" expanded="true" />
-            <element signature="e#1003#1004#0" expanded="true" />
-          </folding>
+          <caret line="62" column="21" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -945,32 +972,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../../akeeton-mage/Mage/src/main/java/mage/filter/FilterPermanent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="55" column="19" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
-          <folding>
-            <element signature="e#1392#1393#0" expanded="true" />
-            <element signature="e#1442#1443#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="646">
+          <caret line="82" column="19" selection-start-line="82" selection-start-column="19" selection-end-line="82" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../akeeton-mage/Mage/src/main/java/mage/filter/Filter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../akeeton-mage/Mage/src/main/java/mage/filter/FilterImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="51" column="12" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="12" />
-          <folding>
-            <element signature="e#1434#1435#0" expanded="true" />
-            <element signature="e#1464#1465#0" expanded="true" />
-            <element signature="e#1816#1817#0" expanded="true" />
-            <element signature="e#1851#1852#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="513">
+          <caret line="103" selection-start-line="103" selection-end-line="103" />
         </state>
       </provider>
     </entry>
